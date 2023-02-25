@@ -1,6 +1,9 @@
 #include <stdio.h>
 /**
- * The main function prints a message using the puts function and returns 0.
+ * Prints the message "Programming is like building a multilingual puzzle"
+ * using the puts function.
+ *
+ * @return 0 if the program executed successfully
  */
 int main(void)
 {
