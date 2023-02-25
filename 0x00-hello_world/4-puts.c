@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
- * Prints the message "Programming is like building a multilingual puzzle"
- * using the puts function.
+ * main - entry point
  *
- * @return 0 if the program executed successfully
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
